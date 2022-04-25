@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tylercodes-11
-- 👀 I’m interested in ... new technology and media! Also love sports and music
+- 👀 I’m interested in ... technology and new social networks! Also love sports and music
 - 🌱 I’m currently learning ... Front end Web Dev and Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on ... A social media app for glasses wearers :D 
 - 📫 How to reach me ... twitter.com/tylernorthside 
 
 <!---
