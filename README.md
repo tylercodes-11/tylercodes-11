@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tylercodes-11
-- 👀 I’m interested in ... technology and new social networks! Also love sports and music
-- 🌱 I’m currently learning ... Front end Web Dev and Data Structures and Algorithms
-- 📫 How to reach me ... twitter.com/tylernorthside 
+- 👋 Hi, I’m Tyler Reid
+- 👀 I’m interested in ... technology and new social networks! Also love podcasts and travel
+- 🌱 I’m currently learning ... React and Redux
+- 📫 How to reach me ... https://www.linkedin.com/in/tylerreidprofessional/
 
 <!---
 tylercodes-11/tylercodes-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
